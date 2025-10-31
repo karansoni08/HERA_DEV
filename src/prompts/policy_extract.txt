@@ -1,0 +1,29 @@
+You are a security policy parser. Convert the policy text into STRICT JSON using EXACTLY this shape:
+
+{
+  "policy_name": "<string>",
+  "controls": [
+    {
+      "control_id": "<string>",
+      "description": "<string>",
+      "owner": "<string>",
+      "priority": "low|medium|high",
+      "mapped_omeo": {
+        "origin": "<string>",
+        "method": "<string>",
+        "exposure": "<string>",
+        "outcome": "<string>"
+      }
+    }
+  ]
+}
+
+RULES:
+- The top-level must include a field named policy_name.
+- Return JSON ONLY (no prose, no code fences).
+- All keys must match exactly (policy_name, controls, mapped_omeo).
+- Use concise, professional language in values.
+
+Policy text:
+<<<POLICY>>>
+

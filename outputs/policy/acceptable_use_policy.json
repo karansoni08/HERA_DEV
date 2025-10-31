@@ -1,0 +1,41 @@
+{
+  "policy_name": "Secure Access Policy",
+  "controls": [
+    {
+      "control_id": "001",
+      "description": "Prohibit the sharing of credentials by employees.",
+      "owner": "IT Security Team",
+      "priority": "high",
+      "mapped_omeo": {
+        "origin": "Internal Threat",
+        "method": "Credential Sharing",
+        "exposure": "Unauthorized Access",
+        "outcome": "Data Breach"
+      }
+    },
+    {
+      "control_id": "002",
+      "description": "Report suspected phishing incidents within 24 hours.",
+      "owner": "IT Security Team",
+      "priority": "medium",
+      "mapped_omeo": {
+        "origin": "External Threat",
+        "method": "Phishing",
+        "exposure": "Unauthorized Access",
+        "outcome": "Data Breach"
+      }
+    },
+    {
+      "control_id": "003",
+      "description": "Implement Multi-Factor Authentication (MFA) for remote access.",
+      "owner": "IT Infrastructure Team",
+      "priority": "high",
+      "mapped_omeo": {
+        "origin": "External Threat",
+        "method": "Unauthorized Remote Access",
+        "exposure": "Data Breach",
+        "outcome": "Data Theft"
+      }
+    }
+  ]
+}

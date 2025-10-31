@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "PolicyRules",
+  "type": "object",
+  "properties": {
+    "policy_name": {"type": "string"},
+    "controls": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "control_id": {"type": "string"},
+          "description": {"type": "string"},
+          "owner": {"type": "string"},
+          "priority": {"type": "string", "enum": ["low","medium","high"]},
+          "mapped_omeo": {
+            "type": "object",
+            "properties": {
+              "origin": {"type": "string"},
+              "method": {"type": "string"},
+              "exposure": {"type": "string"},
+              "outcome": {"type": "string"}
+            },
+            "required": ["origin","method","exposure","outcome"]
+          }
+        },
+        "required": ["control_id","description","owner","priority","mapped_omeo"]
+      }
+    }
+  },
+  "required": ["policy_name","controls"]
+}
+
