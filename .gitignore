@@ -8,8 +8,9 @@ venv/
 .vscode/
 outputs/*
 !outputs/.gitkeep
-data/*
+data/**
 !data/.gitkeep
+!data/*.csv
 docs/*.pdf
 .coverage
 htmlcov/
