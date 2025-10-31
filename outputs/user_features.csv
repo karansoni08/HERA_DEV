@@ -1,0 +1,101 @@
+user_id,name,email,department,role,employment_type,privilege_level,critical_asset_access,hire_date,attempts,opens,clicks,reports,creds_submitted,click_rate,report_rate,creds_any,events,downloads_gb,after_hours_events,anom_geo_events,escalate_events,delete_events,after_hours_rate,anom_geo_rate,violations,viol_low,viol_med,viol_high,viol_repeat_sum,viol_high_any
+USR0001,Allison Hill,donaldgarcia@mcclain.com,Finance,Contractor,contractor,normal,0,2021-04-19,3,1,0,1,0,0.0,0.3333333333333333,0,24,36.4,9,1,1,0,0.375,0.041666666666666664,0.0,0.0,0.0,0.0,0.0,0.0
+USR0002,Lance Hoffman,lrobinson@pacheco-smith.com,HR,Manager,employee,elevated,0,2024-04-27,3,0,0,0,0,0.0,0.0,0,10,7.27,5,0,0,0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0003,Christopher Bernard,curtis61@abbott-munoz.com,Finance,HR Specialist,employee,normal,1,2024-06-24,4,1,0,0,0,0.0,0.0,0,21,22.73,8,0,2,0,0.38095238095238093,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0004,Valerie Gray,maria95@lee.com,HR,Analyst,employee,normal,0,2025-10-03,4,1,0,0,0,0.0,0.0,0,22,17.12,13,0,0,1,0.5909090909090909,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0005,Sharon James,xreid@wood.com,HR,HR Specialist,employee,elevated,0,2024-05-04,2,1,0,0,0,0.0,0.0,0,19,25.67,8,0,0,0,0.42105263157894735,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0006,Andrea Reid,frankgray@watts.com,HR,Finance Officer,employee,normal,0,2021-12-22,4,1,0,0,0,0.0,0.0,0,16,35.8,5,0,0,0,0.3125,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0007,Ethan Adams,robinbradley@edwards.info,HR,Analyst,employee,normal,0,2021-07-18,2,1,0,1,0,0.0,0.5,0,8,14.57,5,0,0,0,0.625,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+USR0008,Patrick Ryan,zhurst@robinson-bright.net,HR,Manager,employee,admin,0,2023-04-19,2,0,0,0,0,0.0,0.0,0,8,17.259999999999998,4,0,0,0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0009,Shannon Hernandez,laurahenderson@cruz.info,Marketing,Analyst,employee,normal,0,2023-06-23,3,0,0,0,0,0.0,0.0,0,14,23.55,7,0,0,1,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0010,Shannon Smith,maldonadoamanda@mack-peterson.com,Engineering,HR Specialist,employee,elevated,0,2023-01-02,4,1,0,0,0,0.0,0.0,0,21,17.830000000000002,10,0,0,0,0.47619047619047616,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0011,Troy Liu,teresa28@harrell.net,Finance,HR Specialist,employee,admin,0,2023-11-16,4,1,0,0,0,0.0,0.0,0,18,11.2,9,2,0,0,0.5,0.1111111111111111,0.0,0.0,0.0,0.0,0.0,0.0
+USR0012,Phillip Ryan,georgetracy@hickman.com,Engineering,HR Specialist,employee,elevated,0,2021-02-12,2,1,0,0,0,0.0,0.0,0,13,11.48,6,0,0,0,0.46153846153846156,0.0,1.0,1.0,0.0,0.0,1.0,0.0
+USR0013,Theresa Miller,wcabrera@cannon.net,Operations,Engineer,employee,normal,1,2021-08-27,2,1,0,0,0,0.0,0.0,0,10,12.85,1,0,1,0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0014,Lisa Brandt,jenniferross@santos.com,HR,Contractor,contractor,elevated,0,2022-01-25,3,0,0,0,0,0.0,0.0,0,8,5.83,3,0,0,0,0.375,0.0,2.0,1.0,1.0,0.0,2.0,0.0
+USR0015,Alex Spencer,adrianzimmerman@perez.com,Finance,Manager,employee,normal,0,2021-03-08,3,0,0,0,0,0.0,0.0,0,21,24.56,15,1,0,1,0.7142857142857143,0.047619047619047616,0.0,0.0,0.0,0.0,0.0,0.0
+USR0016,Michael Lewis,jenniferkhan@kennedy.com,HR,Engineer,employee,normal,0,2021-04-20,2,0,0,0,0,0.0,0.0,0,18,13.99,6,0,0,0,0.3333333333333333,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0017,Heather Jenkins,nuneztracey@brown.com,Finance,Engineer,employee,normal,0,2024-10-31,3,0,0,0,0,0.0,0.0,0,12,7.18,5,0,1,0,0.4166666666666667,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0018,Corey Herrera,robertramirez@baxter.info,HR,Contractor,contractor,normal,0,2024-11-14,2,1,0,0,0,0.0,0.0,0,17,18.509999999999998,4,1,0,1,0.23529411764705882,0.058823529411764705,0.0,0.0,0.0,0.0,0.0,0.0
+USR0019,Annette Pearson,novaksara@martin.info,Operations,Contractor,contractor,normal,0,2021-11-24,3,2,0,1,0,0.0,0.3333333333333333,0,17,28.08,9,0,1,0,0.5294117647058824,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0020,Anthony Gray,ybaker@mitchell-horton.net,HR,Analyst,employee,elevated,0,2024-02-21,4,2,1,1,0,0.25,0.25,0,8,7.819999999999999,5,0,0,1,0.625,0.0,1.0,1.0,0.0,0.0,2.0,0.0
+USR0021,Mr. Daniel Brown,adkinsbrian@woods.com,Engineering,Finance Officer,employee,normal,0,2025-08-20,2,0,0,0,0,0.0,0.0,0,9,17.77,2,0,0,0,0.2222222222222222,0.0,2.0,1.0,1.0,0.0,4.0,0.0
+USR0022,Cody Larson,richarddavid@sanchez.biz,Engineering,HR Specialist,employee,normal,0,2024-02-13,3,1,0,0,0,0.0,0.0,0,9,6.03,3,0,0,1,0.3333333333333333,0.0,1.0,0.0,0.0,1.0,0.0,1.0
+USR0023,Emily Green,john62@brewer.com,Marketing,Contractor,contractor,normal,0,2020-11-16,4,1,0,0,0,0.0,0.0,0,14,8.91,4,0,0,0,0.2857142857142857,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0024,Kristine Garcia,williamanderson@ibarra-suarez.com,Operations,Contractor,contractor,normal,0,2022-04-03,4,0,0,0,0,0.0,0.0,0,8,5.91,2,0,0,0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0025,Joshua Turner,contrerasangela@garcia.com,Operations,Finance Officer,employee,normal,0,2024-07-17,3,0,0,0,0,0.0,0.0,0,8,6.07,2,0,0,0,0.25,0.0,1.0,1.0,0.0,0.0,3.0,0.0
+USR0026,Douglas Clark,james48@king-odonnell.com,Operations,Manager,employee,normal,0,2021-04-16,3,0,0,0,0,0.0,0.0,0,21,6.63,9,0,2,0,0.42857142857142855,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0027,Donald Smith,danagreen@ramos.com,HR,Analyst,employee,normal,0,2021-03-16,3,0,0,0,0,0.0,0.0,0,8,5.050000000000001,3,0,0,1,0.375,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0028,Stephanie Gardner,brandi26@williams.com,Operations,Finance Officer,employee,normal,0,2025-04-29,4,1,0,0,0,0.0,0.0,0,9,12.96,6,0,0,0,0.6666666666666666,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0029,David Garcia,vdickson@frost.com,Operations,Finance Officer,employee,normal,0,2025-09-17,3,1,0,0,0,0.0,0.0,0,25,37.620000000000005,10,0,0,0,0.4,0.0,2.0,2.0,0.0,0.0,6.0,0.0
+USR0030,Sierra Johnson,kimberly63@moore-haynes.biz,Finance,Analyst,employee,normal,0,2025-03-11,4,1,0,1,0,0.0,0.25,0,18,21.509999999999998,11,0,0,1,0.6111111111111112,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0031,Courtney Velasquez,ybailey@walker.com,Engineering,Engineer,employee,normal,0,2022-10-27,2,0,0,0,0,0.0,0.0,0,10,9.7,5,0,0,0,0.5,0.0,1.0,0.0,1.0,0.0,0.0,0.0
+USR0032,Benjamin Ayala,darlene68@crosby-wilson.com,Finance,Finance Officer,employee,admin,0,2021-09-21,2,1,1,0,0,0.5,0.0,0,16,10.759999999999998,7,1,1,2,0.4375,0.0625,0.0,0.0,0.0,0.0,0.0,0.0
+USR0033,Deborah Rodriguez,yreed@graham-joyce.com,Operations,Engineer,employee,elevated,0,2022-10-03,3,2,0,0,0,0.0,0.0,0,13,21.77,5,0,0,0,0.38461538461538464,0.0,1.0,0.0,0.0,1.0,0.0,1.0
+USR0034,Dawn Fletcher,meyerlindsay@ball.com,Engineering,Analyst,employee,elevated,0,2022-12-26,2,0,0,0,0,0.0,0.0,0,18,20.97,8,1,0,0,0.4444444444444444,0.05555555555555555,2.0,2.0,0.0,0.0,4.0,0.0
+USR0035,Tammie Hanson,cortezkevin@estrada-nguyen.com,HR,Manager,employee,normal,0,2023-08-08,3,2,0,1,0,0.0,0.3333333333333333,0,18,25.03,8,1,1,0,0.4444444444444444,0.05555555555555555,0.0,0.0,0.0,0.0,0.0,0.0
+USR0036,Maurice Gray,christinaturner@bass.org,Finance,HR Specialist,employee,normal,0,2023-11-12,3,2,0,0,0,0.0,0.0,0,25,27.77,14,0,1,1,0.56,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0037,Jeremy Lowe,yleon@jackson.org,Engineering,Analyst,employee,elevated,0,2022-07-04,2,0,0,0,0,0.0,0.0,0,17,14.96,9,0,2,0,0.5294117647058824,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0038,Nicole Chambers,lindsayhernandez@sanchez.org,HR,Engineer,employee,normal,0,2025-01-29,2,0,0,0,0,0.0,0.0,0,11,13.370000000000001,6,0,0,0,0.5454545454545454,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+USR0039,Jason Soto,jennifercruz@sanchez-douglas.com,Finance,Analyst,employee,elevated,0,2025-04-17,3,0,0,0,0,0.0,0.0,0,14,17.24,5,0,0,0,0.35714285714285715,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0040,Stacey Osborne,gregoryrubio@marshall.com,HR,HR Specialist,employee,normal,0,2023-02-10,3,1,1,0,0,0.3333333333333333,0.0,0,22,18.42,12,1,3,1,0.5454545454545454,0.045454545454545456,0.0,0.0,0.0,0.0,0.0,0.0
+USR0041,Mary Travis,stephanie79@mcclain.info,HR,HR Specialist,employee,normal,0,2025-04-26,2,1,0,0,0,0.0,0.0,0,8,10.75,2,1,0,0,0.25,0.125,0.0,0.0,0.0,0.0,0.0,0.0
+USR0042,Karen Green,maryramirez@washington.com,HR,Finance Officer,employee,elevated,0,2022-01-01,3,1,1,0,0,0.3333333333333333,0.0,0,14,13.2,11,0,1,0,0.7857142857142857,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0043,Steven Miller,jessebenson@lewis.info,HR,Contractor,contractor,elevated,0,2022-11-28,2,1,0,0,0,0.0,0.0,0,14,20.44,9,1,0,0,0.6428571428571429,0.07142857142857142,0.0,0.0,0.0,0.0,0.0,0.0
+USR0044,Jason Stein,gateskathy@woods-bender.com,Engineering,Contractor,contractor,normal,0,2024-08-06,4,3,1,0,0,0.25,0.0,0,12,11.38,5,0,0,0,0.4166666666666667,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0045,Tiffany Barnes,tracynelson@johnson-rogers.biz,HR,Analyst,employee,normal,0,2024-06-14,3,0,0,0,0,0.0,0.0,0,16,8.15,8,0,0,0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0046,Tamara Hooper,meadowsbrittany@johnson.info,Operations,HR Specialist,employee,normal,0,2021-09-27,2,0,0,0,0,0.0,0.0,0,14,18.97,8,0,0,0,0.5714285714285714,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+USR0047,Garrett Gibson,kathleen64@king-miller.com,Finance,Analyst,employee,normal,0,2024-07-29,3,2,1,0,0,0.3333333333333333,0.0,0,24,19.64,9,1,1,2,0.375,0.041666666666666664,1.0,1.0,0.0,0.0,3.0,0.0
+USR0048,Trevor Walker,harringtondenise@herring.com,Finance,Engineer,employee,normal,0,2023-12-09,2,0,0,0,0,0.0,0.0,0,9,14.86,4,0,1,1,0.4444444444444444,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+USR0049,John Wilson,stevenscott@jackson-lawson.com,HR,Finance Officer,employee,normal,0,2024-09-20,2,0,0,0,0,0.0,0.0,0,21,22.52,12,0,0,0,0.5714285714285714,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0050,Eric Lane,barbara66@gonzalez.com,Operations,HR Specialist,employee,normal,0,2021-05-04,3,1,0,0,0,0.0,0.0,0,10,9.139999999999999,4,0,1,1,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0051,Sarah Burke,hoganashlee@reed.com,HR,Finance Officer,employee,normal,0,2021-03-04,4,0,0,0,0,0.0,0.0,0,24,38.269999999999996,12,0,2,0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0052,Alexandria Fisher,xgarcia@snow.com,Marketing,Engineer,employee,normal,0,2024-07-01,3,1,0,0,0,0.0,0.0,0,13,14.16,4,0,0,0,0.3076923076923077,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0053,Debra Morton,umarshall@adams.com,Finance,Analyst,employee,normal,0,2022-03-23,3,0,0,0,0,0.0,0.0,0,25,18.19,9,0,1,1,0.36,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0054,Paul Hudson,frogers@white-lewis.com,HR,Analyst,employee,normal,0,2022-07-13,4,1,0,0,0,0.0,0.0,0,13,8.64,6,0,0,0,0.46153846153846156,0.0,2.0,0.0,0.0,2.0,1.0,1.0
+USR0055,Meredith Hill,blackjames@cortez.net,Marketing,Manager,employee,normal,0,2024-08-15,2,1,0,0,0,0.0,0.0,0,20,24.79,9,0,1,0,0.45,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0056,Maria Henry,davisjeffrey@sanchez.net,Marketing,Analyst,employee,elevated,0,2023-06-26,2,1,0,0,0,0.0,0.0,0,22,23.880000000000003,10,0,0,1,0.45454545454545453,0.0,2.0,1.0,1.0,0.0,3.0,0.0
+USR0057,Patrick Rivera,qnelson@martinez.com,Finance,Analyst,employee,normal,0,2021-06-05,3,0,0,0,0,0.0,0.0,0,17,24.31,7,0,1,0,0.4117647058823529,0.0,1.0,1.0,0.0,0.0,3.0,0.0
+USR0058,Pamela Lopez,joannahill@bray.com,Finance,Analyst,employee,elevated,0,2024-12-29,3,1,0,0,0,0.0,0.0,0,17,19.5,9,0,1,1,0.5294117647058824,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0059,Isaac Turner,joshuamccann@carter.info,Marketing,Manager,employee,normal,0,2021-05-05,4,0,0,0,0,0.0,0.0,0,16,20.67,6,0,2,0,0.375,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+USR0060,Duane Mendoza,jack04@wilson-jones.info,Finance,Finance Officer,employee,normal,1,2021-03-14,4,3,1,1,0,0.25,0.25,0,23,19.669999999999998,7,0,2,1,0.30434782608695654,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0061,Amy Hernandez,christopher31@duran.com,Engineering,Finance Officer,employee,elevated,0,2024-09-16,2,1,0,1,0,0.0,0.5,0,16,23.09,6,0,0,1,0.375,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+USR0062,Terry Evans,ntorres@lynch.com,Marketing,Engineer,employee,normal,0,2025-07-27,4,0,0,0,0,0.0,0.0,0,14,13.059999999999999,8,0,0,0,0.5714285714285714,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0063,Daniel Guerrero,johnarnold@smith.org,Marketing,HR Specialist,employee,normal,0,2023-03-07,2,1,0,0,0,0.0,0.0,0,11,4.24,5,0,0,0,0.45454545454545453,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0064,Dwayne Campbell,ojones@french-weber.com,Operations,Analyst,employee,elevated,1,2022-12-15,4,2,0,1,0,0.0,0.25,0,14,12.58,9,0,3,0,0.6428571428571429,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+USR0065,Maria Kerr,charlesmartin@larson-holloway.com,Finance,Engineer,employee,normal,0,2023-01-10,4,1,1,0,0,0.25,0.0,0,12,14.49,3,0,0,0,0.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0066,Eric Powell,vincent77@george.com,HR,HR Specialist,employee,normal,0,2023-11-06,4,0,0,0,0,0.0,0.0,0,9,8.53,4,0,0,0,0.4444444444444444,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0067,Darryl Craig,keyemily@johnston-hines.com,Finance,Manager,employee,normal,0,2023-03-08,3,1,0,0,0,0.0,0.0,0,21,24.8,12,0,1,0,0.5714285714285714,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0068,Sydney White,fwalters@harrison.com,Marketing,Manager,employee,normal,0,2022-06-08,4,1,0,0,0,0.0,0.0,0,24,20.39,13,0,0,0,0.5416666666666666,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0069,Christopher Jenkins,zroberts@johnson.com,Operations,Manager,employee,normal,0,2025-09-06,2,1,0,0,0,0.0,0.0,0,24,30.68,12,0,0,1,0.5,0.0,3.0,1.0,1.0,1.0,4.0,1.0
+USR0070,Jose Travis,mgutierrez@cox.com,Operations,Finance Officer,employee,normal,0,2021-11-05,2,0,0,0,0,0.0,0.0,0,21,21.74,9,0,1,1,0.42857142857142855,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0071,Tanya Kim,omartinez@lloyd.com,HR,Engineer,employee,normal,0,2023-08-04,4,2,1,1,0,0.25,0.25,0,25,29.57,11,0,0,0,0.44,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+USR0072,Willie Durham,pvalentine@jimenez.com,Marketing,Engineer,employee,normal,0,2023-05-17,4,1,0,0,0,0.0,0.0,0,15,11.280000000000001,6,0,0,0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0073,Ruben Baird,stephenthomas@weeks.com,Engineering,Finance Officer,employee,elevated,0,2025-02-24,3,1,1,0,0,0.3333333333333333,0.0,0,20,22.7,8,0,0,1,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0074,Richard Perry,lori44@carpenter.info,Marketing,Analyst,employee,normal,0,2023-07-10,3,1,0,0,0,0.0,0.0,0,11,22.89,3,0,0,0,0.2727272727272727,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0075,Juan Daniels,mcantu@allen.biz,Finance,Analyst,employee,normal,0,2021-01-17,2,0,0,0,0,0.0,0.0,0,21,23.02,7,0,0,0,0.3333333333333333,0.0,1.0,1.0,0.0,0.0,0.0,0.0
+USR0076,Michele Shepherd,ymcneil@pollard.net,Engineering,Manager,employee,elevated,0,2025-08-28,4,2,1,1,0,0.25,0.25,0,23,28.73,12,0,2,0,0.5217391304347826,0.0,2.0,1.0,1.0,0.0,3.0,0.0
+USR0077,Brian Kirk,foxstephen@thomas.com,Engineering,Engineer,employee,normal,0,2023-03-06,3,0,0,0,0,0.0,0.0,0,11,11.68,4,0,1,0,0.36363636363636365,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0078,Gina Schwartz,christianmelissa@james.info,Engineering,Contractor,contractor,normal,0,2025-03-11,4,1,0,1,0,0.0,0.25,0,24,31.33,11,0,0,2,0.4583333333333333,0.0,1.0,0.0,1.0,0.0,3.0,0.0
+USR0079,Barry Welch,wendy16@hodges.com,Operations,Contractor,contractor,normal,0,2023-01-18,4,1,0,0,0,0.0,0.0,0,21,31.84,8,2,0,0,0.38095238095238093,0.09523809523809523,0.0,0.0,0.0,0.0,0.0,0.0
+USR0080,Stephanie Williams,carternicholas@sanchez.org,Finance,Engineer,employee,elevated,0,2024-03-28,2,1,0,1,0,0.0,0.5,0,11,4.619999999999999,4,1,1,0,0.36363636363636365,0.09090909090909091,3.0,3.0,0.0,0.0,5.0,0.0
+USR0081,Christopher Lynch,pharvey@durham-thomas.info,Finance,Analyst,employee,elevated,0,2024-01-08,2,0,0,0,0,0.0,0.0,0,19,14.35,7,0,1,0,0.3684210526315789,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0082,Michael Nolan,rsantana@moore.org,Operations,Engineer,employee,normal,0,2022-04-29,4,2,0,1,0,0.0,0.25,0,10,7.92,4,0,1,0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0083,Melissa Bryant,james67@young.com,Engineering,Contractor,contractor,normal,0,2023-09-15,4,2,0,2,0,0.0,0.5,0,8,7.83,6,0,1,0,0.75,0.0,1.0,0.0,0.0,1.0,3.0,1.0
+USR0084,Elizabeth Spence DDS,alan09@crawford.com,Finance,Analyst,employee,normal,0,2023-11-13,2,0,0,0,0,0.0,0.0,0,8,6.85,5,0,0,0,0.625,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0085,Mark Oliver,courtneyberger@williams.com,Finance,Analyst,employee,normal,0,2024-06-29,3,0,0,0,0,0.0,0.0,0,24,27.33,13,1,0,1,0.5416666666666666,0.041666666666666664,0.0,0.0,0.0,0.0,0.0,0.0
+USR0086,Edward Burgess,jamesbuchanan@schmidt-mcintyre.com,HR,Engineer,employee,elevated,0,2022-02-11,3,0,0,0,0,0.0,0.0,0,23,28.98,8,0,1,0,0.34782608695652173,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0087,Karen Drake,linda71@webster.biz,Operations,Finance Officer,employee,normal,1,2025-09-01,4,0,0,0,0,0.0,0.0,0,18,6.07,6,1,0,2,0.3333333333333333,0.05555555555555555,0.0,0.0,0.0,0.0,0.0,0.0
+USR0088,Holly Gibbs,bakerdavid@chambers-chambers.org,HR,Contractor,contractor,normal,0,2022-09-26,2,1,0,0,0,0.0,0.0,0,25,22.32,9,1,0,0,0.36,0.04,0.0,0.0,0.0,0.0,0.0,0.0
+USR0089,Jacqueline Leonard,jjohnson@herman-walker.com,Operations,HR Specialist,employee,normal,0,2024-01-03,4,1,0,0,0,0.0,0.0,0,12,8.76,3,0,0,0,0.25,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+USR0090,Michael Banks,taylorsophia@ferrell-wilson.com,Engineering,Engineer,employee,elevated,0,2025-04-08,3,0,0,0,0,0.0,0.0,0,23,22.919999999999998,11,0,0,0,0.4782608695652174,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0091,Jesse Santiago,umatthews@mcclure.com,Engineering,Analyst,employee,normal,0,2024-12-31,2,0,0,0,0,0.0,0.0,0,25,28.44,9,1,1,1,0.36,0.04,0.0,0.0,0.0,0.0,0.0,0.0
+USR0092,Teresa Ramirez,jeff73@garcia-jennings.net,Engineering,Analyst,employee,elevated,0,2025-05-04,2,0,0,0,0,0.0,0.0,0,14,14.01,9,0,1,1,0.6428571428571429,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0093,Amy Hill,rushmadison@bates.org,Operations,Finance Officer,employee,elevated,0,2025-09-08,2,0,0,0,0,0.0,0.0,0,25,34.04,15,0,1,2,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0094,Gavin Zhang,caseyhubbard@willis.com,HR,Manager,employee,admin,0,2024-09-13,2,0,0,0,0,0.0,0.0,0,10,7.02,6,0,0,2,0.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0095,Linda Ramirez,vanessafernandez@rodriguez.com,Finance,Finance Officer,employee,normal,0,2020-11-26,2,1,0,0,0,0.0,0.0,0,10,13.39,1,0,0,1,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0096,Cynthia Morris,josephmartinez@fox-reese.info,HR,Finance Officer,employee,normal,0,2023-01-26,2,0,0,0,0,0.0,0.0,0,19,19.8,5,2,0,0,0.2631578947368421,0.10526315789473684,0.0,0.0,0.0,0.0,0.0,0.0
+USR0097,Kevin Hayes,soniawilliams@boyd.com,Marketing,Analyst,employee,elevated,0,2025-10-28,3,1,1,0,0,0.3333333333333333,0.0,0,21,22.06,11,0,1,0,0.5238095238095238,0.0,1.0,0.0,1.0,0.0,1.0,0.0
+USR0098,Jessica Rodriguez,fjones@franklin-jones.com,HR,Manager,employee,elevated,0,2023-12-14,4,1,0,0,0,0.0,0.0,0,16,16.16,9,2,0,0,0.5625,0.125,0.0,0.0,0.0,0.0,0.0,0.0
+USR0099,Michelle James,shawn96@mcguire.net,HR,Engineer,employee,normal,0,2024-06-07,3,0,0,0,0,0.0,0.0,0,17,24.279999999999998,9,0,0,1,0.5294117647058824,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+USR0100,Jesse Perez,maria66@davis.com,Engineering,Finance Officer,employee,normal,1,2025-08-07,4,2,0,0,0,0.0,0.0,0,24,39.56,9,1,0,0,0.375,0.041666666666666664,0.0,0.0,0.0,0.0,0.0,0.0
